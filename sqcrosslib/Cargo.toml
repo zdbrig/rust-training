@@ -1,6 +1,6 @@
 [package]
-name = "sqoinlib"
-version = "0.1.0"
+name = "sqcorsslib"
+version = "0.1.1"
 edition = "2021"
 description = "Ramadab training 2022"
 license = "MIT"
